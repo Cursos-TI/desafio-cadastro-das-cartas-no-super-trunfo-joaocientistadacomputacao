@@ -133,5 +133,10 @@ int main() {
 
     printf("PIB per Capita: R$ %.2f reais\n" , percapita2);
 
+    //Resultado da carta vencedora
+
+    
+
+
     return 0;
 }
