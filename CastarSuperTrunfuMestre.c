@@ -13,12 +13,12 @@ int main() {
 
 //Declaração de variáveis da carta1
     int populacao1, pontos1;
-    float area1, pib1, densidade1, percapita1;
+    float area1, pib1, densidade1, percapita1, super1;
     char estado1[5], codigocarta1[5], cidade1[25];
 
 //Declaração de variáveis da carta2
     int populacao2, pontos2;
-    float area2, pib2, densidade2, percapita2;
+    float area2, pib2, densidade2, percapita2, super2;
     char estado2[5], codigocarta2[5], cidade2[25];
 
 //As variaveis estão direnciadas pelo numeral do fim, 1 para carta e 2 para carta 2
